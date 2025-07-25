@@ -1,6 +1,5 @@
-# YEAGERSON-CORP-
+ YEAGERSON-CORP-
 welcome to YA services.
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
